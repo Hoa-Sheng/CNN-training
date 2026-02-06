@@ -207,8 +207,8 @@ marimo/_lsp/
 __marimo__/
 
 .kt_dir
-
+.cifar10_4conv_layers
 .cifar10_filters_kernel
-
+kt_dir
 best_model.h5
 final_model.h5
